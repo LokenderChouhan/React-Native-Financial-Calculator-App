@@ -36,5 +36,6 @@ pip install foobar
 ## Preview
 
 ![Alt Text](https://media.giphy.com/media/LqTwJGbX8yUIvNfLe3/giphy.gif)
+
 ![Alt Text](https://media.giphy.com/media/WQUZzl9ZteG0gga9AT/giphy.gif)
 
